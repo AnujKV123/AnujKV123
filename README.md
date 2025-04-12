@@ -57,6 +57,9 @@ Here are some ideas to get you started:
 ###
 
 <div align="left">
+  <a href="https://anujverma.info/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Portfolio&logo=font-awesome&logo=user&label=&color=0A66C2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="portfolio logo" />
+  </a>
   <a href="https://www.instagram.com/anuj.verma.__/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo" />
   </a>
